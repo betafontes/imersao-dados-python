@@ -1,4 +1,4 @@
-# 📊 Imersão de Dados com Python – Alura  
+# 📊 Imersão de Dados com Python – Alura (2025)
 
 Este repositório contém o projeto desenvolvido durante a **Imersão de Dados com Python** oferecida pela **Alura**.  
 Foram quatro dias de aprendizado intenso, explorando **análise de dados, tratamento e manipulação de informações**.  
